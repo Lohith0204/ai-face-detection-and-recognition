@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App** → https://ai-face-detection-and-recognition.streamlit.app/
 
 ## Overview
 This project is an AI-based Face Detection and Recognition system that identifies whether a given face image belongs to a known person or an unknown individual. The application uses deep learning–based face embeddings to convert faces into numerical representations and compares them against stored known faces to perform recognition accurately.
