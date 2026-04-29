@@ -32,6 +32,7 @@ FACE DETECTION AND RECOGNITION/
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation
 ├── gitignore               # Ignore files
+├── LICENSE
 │
 ├── ai_engine/
 │   ├── detector.py         # Face detection logic
